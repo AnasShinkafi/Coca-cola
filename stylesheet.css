@@ -1,0 +1,181 @@
+.navbar {
+    background-color: black;
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.index {
+    position: absolute; 
+   top: 0px;
+   text-decoration: none; 
+   color: white;
+   padding-left: 700px;
+   font-size: 25px;
+}
+.fa {
+    text-decoration: none;
+    color: white;
+    padding-left: 1400px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+.banner {
+    display: grid;
+}
+
+.container1 {
+    display: inline;
+    display: flex;
+}
+.container {
+    display: flex;
+    justify-content: flex-start;
+}
+.column {
+    position: relative;
+}
+
+.row {
+    position: relative;
+    display: flex;
+}
+.vertical-text {
+    text-decoration: none;
+    font-size: 45px;
+    position: absolute; 
+    top: 70px; 
+    color: white;
+    padding-right: 350px;
+    padding-top: 60px;
+    transform: translate(-50%, -50%); 
+}
+.vertical-text2 {
+    text-decoration: none;
+    font-size: 45px;
+    position: absolute; 
+    top: 70px; 
+    color: white;
+    padding-right: 800px;
+    padding-top: 200px;
+    transform: translate(-50%, -50%)
+}
+.horizontal-text {
+    font-size: 45px;
+    color: rgb(240, 233, 233);
+    position: absolute;
+    transform: translate(-50%, -50%);
+    padding-bottom: 800px;
+    padding-left: 1200px;
+}
+.row1 {
+    display: flex;
+    padding-left: 150px;
+}
+.footer {
+    background-color: black;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.text-white {
+    color: white;
+    padding-top: 20px;
+    padding-left: 100px;
+    text-align: left;
+    font-size: 18px;
+}
+.text-white1 {
+    color: white;
+    text-align: right;
+    padding-right: 50px;
+    font-size: 18px;
+}
+.index-footer {
+    color: white;
+    font-size: 25px;
+    padding-left: 700px;
+}
+.image {
+    position: relative;
+    width: 100%;
+}
+.images {
+    backface-visibility: hidden;
+}
+.text {
+    text-decoration: none;
+    font-size: 45px;
+    position: absolute; 
+    top: 200px; 
+    color: white;
+    padding-left: 380px;
+    transform: translate(-50%, -50%);   
+}
+.images:hover {
+    background-color: darkgrey;
+}
+
+.tab {
+    overflow: hidden;
+    padding-left: 550px;
+  }
+
+  .tablinks {
+    font-size: 25px;
+  }
+  
+  /* Style the buttons that are used to open the tab content */
+  .tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab button:hover {
+    background-color: rgb(109, 37, 37);
+  }
+  
+  /* Create an active/current tablink class */
+  .tab button.active {
+    background-color: rgb(230, 118, 118);
+  }
+  
+  /* Style the tab content */
+  .tabcontent{
+    display: inline ;
+    justify-content: center;
+  }
+-->
+  /* social */
+  .fa:hover {
+    opacity: 0.9;
+}
+
+.fa-instagram {
+    color: rgb(52, 3, 92);
+    padding-left: 550px;
+}
+
+.fa-twitter {
+    color: rgb(134, 124, 124);
+}
+
+.fa-facebook {
+    color: rgb(163, 145, 145);
+}
+
+.fa {
+    font-size: 40px;
+    width: 60px;
+    text-decoration: none;
+    margin: 5px 40px;
+}
+
+a {
+    text-decoration: none;
+}
